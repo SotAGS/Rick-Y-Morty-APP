@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #e0ffef;
+}
+
+header {
+  background-color: yellow;
+  padding: 1rem;
+}
+
+#filters {
+  margin: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card {
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  background-color: white;
+}
+
+img {
+  width: 100%;
+}
